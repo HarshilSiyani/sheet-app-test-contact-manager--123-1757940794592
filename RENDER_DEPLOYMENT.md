@@ -7,8 +7,8 @@
 1. Go to [Render Dashboard](https://dashboard.render.com/)
 2. Click "New +" → "Web Service"
 3. Select "Build and deploy from a Git repository"
-4. Connect to GitHub and select this repository: REPOSITORY_URL
-5. Use branch: **BRANCH_NAME**
+4. Connect to GitHub and select this repository: https://github.com/HarshilSiyani/sheet-app-test-contact-manager--123-1757940794592
+5. Use branch: **main**
 
 ### Step 2: Configure Service Settings
 - **Name**: test-contact-manager
@@ -36,9 +36,9 @@ NEXT_PUBLIC_APP_DESCRIPTION=A test contact management app for Render deployment
 - Your app will be live at: `https://your-service-name.onrender.com`
 
 ## 🔄 Auto-Deploy Setup (Optional)
-Render automatically redeploys when you push to the **BRANCH_NAME** branch.
+Render automatically redeploys when you push to the **main** branch.
 
 ## 📞 Support
-- Repository: REPOSITORY_URL
+- Repository: https://github.com/HarshilSiyani/sheet-app-test-contact-manager--123-1757940794592
 - Generated: 9/15/2025
 - SheetApps Support: [Contact Us](mailto:support@sheetapps.com)
